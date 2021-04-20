@@ -1,0 +1,25 @@
+{
+"Persons":[
+{
+"name":"Sai Charan",
+"email":"saicharantk31@gmail.com",
+"dob":"31-01-1998",
+"country":"India",
+"avatar":"C:\Users\Sai Charan\Downloads\img_avatar.png"
+},
+{
+"name":"Geetha",
+"email":"Geetha123@gmail.com",
+"dob":"21-01-1998",
+"country":"USA",
+"avatar":"C:\Users\Sai Charan\Downloads\img_avatar.png"
+},
+{
+"name":"Ranjith",
+"email":"ranjith123@gmail.com",
+"dob":"21-01-1993",
+"country":"India",
+"avatar":"C:\Users\Sai Charan\Downloads\img_avatar.png"
+}
+]
+}
